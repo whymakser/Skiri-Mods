@@ -12,11 +12,9 @@
 ## 🛠 Техподдержка
 | Способ связи       | Ссылка                     |
 |--------------------|----------------------------|
-| Официальный чат    | [@skirimodschat](t.me/skirimodschat) |
-| Разработчик        | [@kaskaderskiri](t.me/ponkechek)       |
-| Разработчик #2     | [@killedmyselff](t.me/killedmyselff)
+| Официальный чат    | [@skirimodschat](https://t.me/skirimodschat) |
+| Разработчик        | [@kaskaderskiri](https://t.me/ponkechek)       |
+| Разработчик #2     | [@killedmyselff](https://t.me/killedmyselff)
 | Баг-репорты        | Через Issues на GitHub     |
 
 *"Зачем усложнять, если можно сделать красиво?"* © SkiriTeam
-
-text by kaskaderskiri 
