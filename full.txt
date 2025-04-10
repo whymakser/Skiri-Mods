@@ -2,3 +2,4 @@ Neofetch
 HerokuUptime
 PassGen
 SkiriAFK
+SpeedTest
