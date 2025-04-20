@@ -4,3 +4,4 @@ PassGen
 SkiriAFK
 SpeedTest
 SkiriPCManager
+AmeActions
