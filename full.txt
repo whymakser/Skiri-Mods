@@ -6,3 +6,4 @@ SpeedTest
 SkiriPCManager
 AmeActions
 fastfetch
+uwufetch
