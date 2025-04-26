@@ -5,3 +5,4 @@ SkiriAFK
 SpeedTest
 SkiriPCManager
 AmeActions
+fastfetch
