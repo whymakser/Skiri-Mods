@@ -24,7 +24,7 @@ class UwUFetchMod(loader.Module):
         "not_installed": (
             "❌ uwufetch не установлен!\n"
             "Установите:\n"
-            "<code>sudo apt install uwufetch</code>\n"
+            "<code>sudo pacman -S uwufetch</code>\n"
             "Или соберите из исходников:\n"
             "<code>git clone https://github.com/TheDarkBug/uwufetch.git</code>\n"
             "<code>cd uwufetch && make build && sudo make install</code>"
